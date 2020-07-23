@@ -48,6 +48,7 @@ cout<<endl<<"b["<<i<<"]="<<b[k];
 }
  
 }
+//
 /*void burbuja(int m[],int t,int b[],int k){
   
   ;
